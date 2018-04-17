@@ -1,4 +1,4 @@
-<Page>
+<Page loaded="loaded">
     <StackLayout orientation="vertical">
         <Image src="res://logo" stretch="none" horizontalAlignment="center" ></Image>
 

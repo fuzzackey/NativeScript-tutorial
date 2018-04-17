@@ -15,17 +15,27 @@
   <component name="ChangesViewManager" flattened_view="false" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="login.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="login.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Groceries/app/views/login/login.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="login.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Groceries/app/views/login/login.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Groceries/platforms/ios/Groceries/app/app.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -54,6 +64,7 @@
         <option value="$PROJECT_DIR$/HelloWorld/app/main-page.xml" />
         <option value="$PROJECT_DIR$/Groceries/platforms/ios/Groceries/app/app.css" />
         <option value="$PROJECT_DIR$/Groceries/app/views/login/login.xml" />
+        <option value="$PROJECT_DIR$/Groceries/app/views/login/login.js" />
       </list>
     </option>
   </component>
@@ -160,7 +171,7 @@
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="app&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/Groceries/platforms/ios/Groceries/app/app.css&#10;log&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/Groceries/app/views/login/login.xml&#10;main&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/HelloWorld/app/main-page.js&#10;app.c&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/HelloWorld/app/app.css&#10;plat.io&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/chapter2/Groceries/app/platform.ios.css&#10;plat.&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/chapter2/Groceries/app/platform.android.css&#10;login&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/chapter2/Groceries/app/views/login/login.xml&#10;app.js&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/chapter2/Groceries/app/app.js" />
+    <property name="SearchEverywhereHistoryKey" value="log&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/Groceries/app/views/login/login.js&#10;app&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/Groceries/platforms/ios/Groceries/app/app.css&#10;main&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/HelloWorld/app/main-page.js&#10;app.c&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/HelloWorld/app/app.css&#10;plat.io&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/chapter2/Groceries/app/platform.ios.css&#10;plat.&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/chapter2/Groceries/app/platform.android.css&#10;login&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/chapter2/Groceries/app/views/login/login.xml&#10;app.js&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/chapter2/Groceries/app/app.js" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -196,12 +207,12 @@
       <option name="presentableId" value="Default" />
       <updated>1523896072114</updated>
       <workItem from="1523896073824" duration="7289000" />
-      <workItem from="1523936385410" duration="2279000" />
+      <workItem from="1523936385410" duration="2446000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9568000" />
+    <option name="totallyTimeSpent" value="9735000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -382,18 +393,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Groceries/platforms/ios/Groceries/app/app.css">
+    <entry file="file://$PROJECT_DIR$/Groceries/app/views/login/login.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Groceries/app/views/login/login.xml">
+    <entry file="file://$PROJECT_DIR$/Groceries/app/views/login/login.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state relative-caret-position="30">
+          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Groceries/platforms/ios/Groceries/app/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
