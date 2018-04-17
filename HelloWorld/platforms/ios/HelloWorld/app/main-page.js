@@ -1,3 +1,6 @@
 exports.pageLoaded = function() {
-    console.log("Hello World");
+    console.log({
+        type: "Apple",
+        color: "Red"
+    });
 };
