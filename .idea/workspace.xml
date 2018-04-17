@@ -15,17 +15,17 @@
   <component name="ChangesViewManager" flattened_view="false" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="login.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="login.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Groceries/app/views/login/login.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state relative-caret-position="105">
+              <caret line="7" column="60" lean-forward="false" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Groceries/platforms/ios/Groceries/app/app.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -52,8 +52,8 @@
         <option value="$PROJECT_DIR$/HelloWorld/app/app.css" />
         <option value="$PROJECT_DIR$/HelloWorld/app/main-page.js" />
         <option value="$PROJECT_DIR$/HelloWorld/app/main-page.xml" />
-        <option value="$PROJECT_DIR$/Groceries/app/views/login/login.xml" />
         <option value="$PROJECT_DIR$/Groceries/platforms/ios/Groceries/app/app.css" />
+        <option value="$PROJECT_DIR$/Groceries/app/views/login/login.xml" />
       </list>
     </option>
   </component>
@@ -196,12 +196,12 @@
       <option name="presentableId" value="Default" />
       <updated>1523896072114</updated>
       <workItem from="1523896073824" duration="7289000" />
-      <workItem from="1523936385410" duration="1947000" />
+      <workItem from="1523936385410" duration="2101000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9236000" />
+    <option name="totallyTimeSpent" value="9390000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -382,18 +382,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Groceries/app/views/login/login.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Groceries/platforms/ios/Groceries/app/app.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Groceries/app/views/login/login.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="60" lean-forward="false" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
           <folding />
         </state>
       </provider>
