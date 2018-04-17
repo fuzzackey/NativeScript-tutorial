@@ -28,7 +28,7 @@ exports.loaded = function(args) {
         pageData.set("isLoading", false);
         listView.animate({
             opacity: 1,
-            duration: 1000
+            duration: 10000
         });
     });
 };

@@ -12,6 +12,10 @@ var frameModule = require("ui/frame");
 
 exports.loaded = function(args) {
     page = args.object;
+    if (page.ios) {
+        var navigationBar = frameModule.topmost().ios.controller.navigationBar;
+        navigationBar.barStyle = UIBarStyle.UIBarStyleBlack;
+    }
     page.bindingContext = user;
 };
 

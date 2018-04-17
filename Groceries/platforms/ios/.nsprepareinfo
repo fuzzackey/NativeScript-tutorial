@@ -1,9 +1,9 @@
 {
-	"time": "Tue Apr 17 2018 15:44:30 GMT+0800 (+08)",
+	"time": "Tue Apr 17 2018 16:28:00 GMT+0800 (+08)",
 	"nativePlatformStatus": "3",
 	"bundle": false,
 	"release": false,
-	"changesRequireBuild": true,
+	"changesRequireBuild": false,
 	"projectFileHash": "74f61ad4cf47ee343c158118b404bd9fb8112c269015701b489e18823afe6d3f",
 	"changesRequireBuildTime": "Tue Apr 17 2018 15:44:30 GMT+0800 (+08)"
 }
