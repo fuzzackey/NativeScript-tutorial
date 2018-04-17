@@ -11,6 +11,8 @@ function User(info) {
         password: info.password || ""
     });
 
+
+
     viewModel.register = function() {
         return fetchModule.fetch(config.apiUrl + "user/" + config.appKey, {
             method: "POST",
