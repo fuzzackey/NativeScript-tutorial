@@ -1,11 +1,11 @@
 var dialogsModule = require("ui/dialogs");
 var UserViewModel = require("../../shared/view-models/user-view-model");
 var user = new UserViewModel();
-var observableModule = require("data/observable");
-var user = new observableModule.fromObject({
-     email: "user@domain.com",
-     password: "password"
-});
+// var observableModule = require("data/observable");
+// var user = new observableModule.fromObject({
+//      email: "user@domain.com",
+//      password: "password"
+// });
 var page;
 var email;
 var frameModule = require("ui/frame");
