@@ -1,5 +1,5 @@
 exports.pageLoaded = function() {
-    console.log({
+    console.dir({
         type: "Apple",
         color: "Red"
     });
