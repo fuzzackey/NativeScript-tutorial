@@ -28,6 +28,24 @@ function GroceryListViewModel(items) {
             viewModel.pop();
         }
     };
+
+    viewModel.add = function(grocery) {
+        return fetch(baseUrl, {
+            method: "POST",
+            body: JSON.stringify({
+                Name: grocery
+            }),
+            headers: getCommonHeaders()
+        })
+            .then(handleErrors)
+            .then(function(response) {
+                return response.json();
+            })
+            .then(function(data) {
+                viewModel.push({ name: grocery, id: data._id });
+            });
+    };
+
     return viewModel;
 }
 
