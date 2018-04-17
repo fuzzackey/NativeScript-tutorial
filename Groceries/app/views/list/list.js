@@ -1,3 +1,4 @@
+var swipeDelete = require("../../shared/utils/ios-swipe-delete");
 var socialShare = require("nativescript-social-share");
 var GroceryListViewModel = require("../../shared/view-models/grocery-list-view-model");
 var groceryList = new GroceryListViewModel([]);var pageData = new observableModule.fromObject({
@@ -19,6 +20,12 @@ var page;
 
 exports.loaded = function(args) {
     page = args.object;
+    if (page.ios) {
+        var listView = page.getViewById("groceryList");
+        swipeDelete.enable(listView, function(index) {
+            groceryList.delete(index);
+        });
+    }
     var listView = page.getViewById("groceryList");
     page.bindingContext = pageData;
 
