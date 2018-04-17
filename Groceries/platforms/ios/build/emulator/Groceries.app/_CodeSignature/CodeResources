@@ -230,7 +230,7 @@
 		</data>
 		<key>app/shared/view-models/user-view-model.js</key>
 		<data>
-		MAhnmoMkkxptmO8tKH7PgXbAu58=
+		NxT5jI80CJHo0yk8owx7aKqKGMM=
 		</data>
 		<key>app/tns_modules/email-validator/.npmignore</key>
 		<data>
@@ -275,6 +275,26 @@
 		<key>app/tns_modules/email-validator/test.js</key>
 		<data>
 		uysxY+CTwI/d54Itrjn3AvWNihg=
+		</data>
+		<key>app/tns_modules/nativescript-social-share/LICENSE</key>
+		<data>
+		B5Dg6kU+5ICeyXpuJJiyGbg9Rxw=
+		</data>
+		<key>app/tns_modules/nativescript-social-share/README.md</key>
+		<data>
+		uUg6b6xxLtqofpbLl1xAJHOix+g=
+		</data>
+		<key>app/tns_modules/nativescript-social-share/index.d.ts</key>
+		<data>
+		SqyVALQyP3qDFzOF22Zp77LutD4=
+		</data>
+		<key>app/tns_modules/nativescript-social-share/package.json</key>
+		<data>
+		8NNdv14KcuzQMmoxIsnVL8XFt6E=
+		</data>
+		<key>app/tns_modules/nativescript-social-share/social-share.js</key>
+		<data>
+		OtZusu+yI0F7KvkeHi3bRcTU6AM=
 		</data>
 		<key>app/tns_modules/nativescript-theme-core/css/aqua.css</key>
 		<data>
@@ -1702,11 +1722,11 @@
 		</data>
 		<key>app/views/list/list.js</key>
 		<data>
-		Rn/rEa3k89x+ye9VZAYwE/XJdJY=
+		oEBqLjy/nEMlI36uiL/azWfka64=
 		</data>
 		<key>app/views/list/list.xml</key>
 		<data>
-		XKucphqpawgik5t4oqD21hBYT5c=
+		5vepPiTPC1v9yuDxxS0Fhb3OZ4w=
 		</data>
 		<key>app/views/login/login.css</key>
 		<data>
@@ -1722,7 +1742,7 @@
 		</data>
 		<key>app/views/register/register.js</key>
 		<data>
-		Dn3jzHINvoibdZ3W6Rycu9AXAIQ=
+		ZjsZ5HTSj3Xcn66sf7XRtvOfenQ=
 		</data>
 		<key>app/views/register/register.xml</key>
 		<data>
@@ -2354,11 +2374,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MAhnmoMkkxptmO8tKH7PgXbAu58=
+			NxT5jI80CJHo0yk8owx7aKqKGMM=
 			</data>
 			<key>hash2</key>
 			<data>
-			ROy+VqcGnofJTTCE0d9KKhZL83MaVg+1GAhPD9w9iXc=
+			ymbjAt16JtJ2KftX+vAOKi90bvIXt7HDHu8Sb8NxgwY=
 			</data>
 		</dict>
 		<key>app/tns_modules/email-validator/.npmignore</key>
@@ -2480,6 +2500,61 @@
 			<key>hash2</key>
 			<data>
 			Lt9vJi+ZHJdsW69cpLeZvkpKBH+UMiG2mcHg+jQTY1c=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-social-share/LICENSE</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			B5Dg6kU+5ICeyXpuJJiyGbg9Rxw=
+			</data>
+			<key>hash2</key>
+			<data>
+			KmZsiSwkTlIW3qwnND2cabPjTWDB5vk6wkX1A2YLrdE=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-social-share/README.md</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uUg6b6xxLtqofpbLl1xAJHOix+g=
+			</data>
+			<key>hash2</key>
+			<data>
+			ypz0vICnzvVA6DL5TLiBiUMSXWjsvH8+15FmwrYox5I=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-social-share/index.d.ts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SqyVALQyP3qDFzOF22Zp77LutD4=
+			</data>
+			<key>hash2</key>
+			<data>
+			TRbmPNRi5D7ElWmk1vAGr8qS7A96LOldHosHYMyCrFg=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-social-share/package.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8NNdv14KcuzQMmoxIsnVL8XFt6E=
+			</data>
+			<key>hash2</key>
+			<data>
+			qvjw7zolf6z81nUiIfunnCxxk8I7uVIxFAucyzgyNNU=
+			</data>
+		</dict>
+		<key>app/tns_modules/nativescript-social-share/social-share.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OtZusu+yI0F7KvkeHi3bRcTU6AM=
+			</data>
+			<key>hash2</key>
+			<data>
+			M68f/At/8nhGkwb6K6PYa8JoMn8RWJ19TCe/CJoCLXY=
 			</data>
 		</dict>
 		<key>app/tns_modules/nativescript-theme-core/css/aqua.css</key>
@@ -6402,22 +6477,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Rn/rEa3k89x+ye9VZAYwE/XJdJY=
+			oEBqLjy/nEMlI36uiL/azWfka64=
 			</data>
 			<key>hash2</key>
 			<data>
-			vDuY2Ny8kDrIAh53crIhnzhmIHki9zmh7AvlSAHeMmY=
+			f/0pk6eG1Qq0oWiGDfAQFgRWsmaL/I3UPzXiu7n1ea0=
 			</data>
 		</dict>
 		<key>app/views/list/list.xml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XKucphqpawgik5t4oqD21hBYT5c=
+			5vepPiTPC1v9yuDxxS0Fhb3OZ4w=
 			</data>
 			<key>hash2</key>
 			<data>
-			K8T78er9pS8UuO7/DYOmbK2sd49RLEIRhhJuYYy9M/A=
+			BZvVeQVHBv/lvMNiyqMvR/MBXtI8XyFfnXnA8pe4Dk8=
 			</data>
 		</dict>
 		<key>app/views/login/login.css</key>
@@ -6457,11 +6532,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Dn3jzHINvoibdZ3W6Rycu9AXAIQ=
+			ZjsZ5HTSj3Xcn66sf7XRtvOfenQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			Hm/qQe/sg8Hr/J8oiUz80v0JYgZZc2kmUR7qHMlRtzs=
+			A8aVmRgcfvS7LSRUEFQDBuyhiSwqcLvpnCH1THr+yBE=
 			</data>
 		</dict>
 		<key>app/views/register/register.xml</key>

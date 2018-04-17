@@ -42,6 +42,10 @@ function User(info) {
         }).then(handleErrors);
     };
 
+    viewModel.isValidEmail = function() {
+        var email = this.get("email");
+        return validator.validate(email);
+    };
     return viewModel;
 }
 
