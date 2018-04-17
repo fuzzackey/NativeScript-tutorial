@@ -41,8 +41,18 @@
       <file leaf-file-name="user-view-model.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Groceries/app/shared/view-models/user-view-model.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+            <state relative-caret-position="286">
+              <caret line="48" column="4" lean-forward="false" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Groceries/app/views/register/register.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="38" column="2" lean-forward="false" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -58,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="list.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Groceries/app/views/list/list.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+            <state relative-caret-position="379">
+              <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -117,13 +127,14 @@
         <option value="$PROJECT_DIR$/HelloWorld/app/main-page.xml" />
         <option value="$PROJECT_DIR$/Groceries/platforms/ios/Groceries/app/app.css" />
         <option value="$PROJECT_DIR$/Groceries/app/views/login/login.xml" />
-        <option value="$PROJECT_DIR$/Groceries/app/shared/view-models/user-view-model.js" />
         <option value="$PROJECT_DIR$/Groceries/app/views/login/login.js" />
         <option value="$PROJECT_DIR$/Groceries/app/shared/view-models/grocery-list-view-model.js" />
         <option value="$PROJECT_DIR$/Groceries/app/views/list/list.xml" />
         <option value="$PROJECT_DIR$/Groceries/app/views/list/list.css" />
         <option value="$PROJECT_DIR$/Groceries/app/views/list/list.js" />
         <option value="$PROJECT_DIR$/Groceries/platforms/ios/build/emulator/Groceries.app/app/tns_modules/tns-core-modules/trace/trace.js" />
+        <option value="$PROJECT_DIR$/Groceries/app/shared/view-models/user-view-model.js" />
+        <option value="$PROJECT_DIR$/Groceries/app/views/register/register.js" />
       </list>
     </option>
   </component>
@@ -230,7 +241,7 @@
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="tns_modules/tns-core-modules/trace/trace.js&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/Groceries/platforms/ios/build/emulator/Groceries.app/app/tns_modules/tns-core-modules/trace/trace.js&#10;list.cs&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/Groceries/app/views/list/list.css&#10;glvm&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/Groceries/app/shared/view-models/grocery-list-view-model.js&#10;lis.j&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/Groceries/app/views/list/list.js&#10;lis.x&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/Groceries/app/views/list/list.xml&#10;uvm&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/Groceries/app/shared/view-models/user-view-model.js&#10;log&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/Groceries/app/views/login/login.js&#10;app&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/Groceries/platforms/ios/Groceries/app/app.css&#10;main&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/HelloWorld/app/main-page.js&#10;app.c&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/HelloWorld/app/app.css&#10;plat.io&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/chapter2/Groceries/app/platform.ios.css&#10;plat.&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/chapter2/Groceries/app/platform.android.css&#10;login&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/chapter2/Groceries/app/views/login/login.xml&#10;app.js&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/chapter2/Groceries/app/app.js" />
+    <property name="SearchEverywhereHistoryKey" value="reg.&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/Groceries/app/views/register/register.js&#10;uvm&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/Groceries/app/shared/view-models/user-view-model.js&#10;tns_modules/tns-core-modules/trace/trace.js&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/Groceries/platforms/ios/build/emulator/Groceries.app/app/tns_modules/tns-core-modules/trace/trace.js&#10;list.cs&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/Groceries/app/views/list/list.css&#10;glvm&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/Groceries/app/shared/view-models/grocery-list-view-model.js&#10;lis.j&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/Groceries/app/views/list/list.js&#10;lis.x&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/Groceries/app/views/list/list.xml&#10;log&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/Groceries/app/views/login/login.js&#10;app&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/Groceries/platforms/ios/Groceries/app/app.css&#10;main&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/HelloWorld/app/main-page.js&#10;app.c&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/HelloWorld/app/app.css&#10;plat.io&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/chapter2/Groceries/app/platform.ios.css&#10;plat.&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/chapter2/Groceries/app/platform.android.css&#10;login&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/chapter2/Groceries/app/views/login/login.xml&#10;app.js&#9;FILE&#9;file:///Users/terang/WebstormProjects/tutorial/chapter2/Groceries/app/app.js" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -266,12 +277,12 @@
       <option name="presentableId" value="Default" />
       <updated>1523896072114</updated>
       <workItem from="1523896073824" duration="7289000" />
-      <workItem from="1523936385410" duration="9607000" />
+      <workItem from="1523936385410" duration="9855000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16896000" />
+    <option name="totallyTimeSpent" value="17144000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -461,14 +472,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Groceries/app/shared/view-models/user-view-model.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="6" lean-forward="false" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Groceries/app/views/login/login.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -519,8 +522,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Groceries/app/views/list/list.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        <state relative-caret-position="379">
+          <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Groceries/app/shared/view-models/user-view-model.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="48" column="4" lean-forward="false" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Groceries/app/views/register/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="38" column="2" lean-forward="false" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
           <folding />
         </state>
       </provider>
