@@ -30,6 +30,7 @@ exports.signIn = function() {
             frameModule.topmost().navigate("views/list/list");
         });
 };
+
 exports.register = function() {
     var topmost = frameModule.topmost();
     topmost.navigate("views/register/register");
